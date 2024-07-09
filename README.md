@@ -18,7 +18,7 @@ I am now actively seeking opportunities in Front-end Development and Software En
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=13erkcan&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
